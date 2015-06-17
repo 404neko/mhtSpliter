@@ -185,7 +185,7 @@ def NowAsync(FileName,MaxBlock):
 if __name__ == '__main__':
 	AsyncIO.init()
 	Log('This is mhtSpliter.')
-	Log('Author: prprQueenSama')
+	Log('Author: prprQueenSama@MoeMod')
 	if len(sys.argv)==1:
 		Log('Error: No parameter input.')
 		raw_input()
